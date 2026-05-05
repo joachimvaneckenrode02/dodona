@@ -1,0 +1,3 @@
+- tab: "Uitvoer"
+  testcases:
+    - stdout: "Je krijgt een jongerenticket."
