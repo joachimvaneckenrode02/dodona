@@ -1,1 +1,15 @@
-
+{
+  "description": {
+    "names": {
+      "nl": "Temperatuur beoordelen met if, else if en else",
+      "en": "Evaluate temperature with if, else if and else"
+    }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "suite.yaml"
+  },
+  "programming_language": "javascript",
+  "access": "private",
+  "labels": ["javascript", "if", "else if", "else", "beginners"]
+}
