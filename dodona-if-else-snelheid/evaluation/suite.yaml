@@ -1,0 +1,5 @@
+- tab: "Test"
+  contexts:
+    - testcases:
+        - expression: "__solution__"
+          stdout: "Je gemiddelde snelheid is 15 km/u. Dat is normaal.\n"
