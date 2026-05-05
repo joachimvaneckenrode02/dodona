@@ -1,0 +1,3 @@
+- tab: "Uitvoer"
+  testcases:
+    - stdout: "Jaaropbrengst: 3784 kWh.\nTerugverdientijd: 6.2 jaar.\nDit is een goede investering."

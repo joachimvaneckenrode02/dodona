@@ -1,0 +1,14 @@
+{
+  "description": {
+    "names": {
+      "nl": "Zonnepanelen beoordelen met if, else if en else",
+      "en": "Evaluate solar panels with if, else if and else"
+    }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "suite.yaml"
+  },
+  "programming_language": "javascript",
+  "access": "private"
+}
