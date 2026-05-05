@@ -1,0 +1,3 @@
+- tab: "Uitvoer"
+  testcases:
+    - stdout: "Je gemiddelde snelheid is 15 km/u. Dat is normaal."

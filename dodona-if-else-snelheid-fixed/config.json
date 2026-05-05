@@ -1,0 +1,14 @@
+{
+  "description": {
+    "names": {
+      "nl": "Gemiddelde snelheid beoordelen",
+      "en": "Evaluate average speed"
+    }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "suite.yaml"
+  },
+  "programming_language": "javascript",
+  "access": "private"
+}
