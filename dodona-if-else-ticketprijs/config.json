@@ -1,0 +1,14 @@
+{
+  "description": {
+    "names": {
+      "nl": "Ticketprijs met if, else if en else",
+      "en": "Ticket price with if, else if and else"
+    }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "suite.yaml"
+  },
+  "programming_language": "javascript",
+  "access": "private"
+}
