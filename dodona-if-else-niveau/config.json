@@ -1,7 +1,7 @@
 {
   "description": {
     "names": {
-      "nl": "Toegangsniveau bepalen"
+      "nl": "Beginner"
     }
   },
   "programming_language": "javascript",
@@ -13,5 +13,8 @@
   "internals": {
     "token": "4FQuBrx8X2Kx5ena8vztN7GkYpF2RZfbqPV-9f-Vp7medYMdHaKznXU7gMGMz_vg",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
-  }
+  },
+  "labels": [
+    "js"
+  ]
 }
