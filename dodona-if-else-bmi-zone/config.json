@@ -1,0 +1,14 @@
+{
+  "description": {
+    "names": {
+      "nl": "BMI-zone bepalen met if, else if en else",
+      "en": "Determine BMI zone with if, else if and else"
+    }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "suite.yaml"
+  },
+  "programming_language": "javascript",
+  "access": "private"
+}
