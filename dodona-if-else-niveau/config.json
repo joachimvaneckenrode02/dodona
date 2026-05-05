@@ -1,0 +1,13 @@
+{
+  "description": {
+    "names": {
+      "nl": "Toegangsniveau bepalen"
+    }
+  },
+  "programming_language": "javascript",
+  "access": "public",
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "evaluation/suite.yaml"
+  }
+}

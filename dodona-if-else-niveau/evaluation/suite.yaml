@@ -1,0 +1,4 @@
+- tab: "Uitvoer"
+  testcases:
+    - expression: "submission"
+      stdout: "Je krijgt een jongerenticket.\n"
