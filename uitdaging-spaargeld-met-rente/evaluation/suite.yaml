@@ -1,0 +1,47 @@
+- tab: Basis
+  contexts:
+    - testcases:
+        - stdin: |
+            100
+            100
+            2
+          stdout: |
+            Maanden: 0
+            Bedrag: 100.00
+            Doel al bereikt
+    - testcases:
+        - stdin: |
+            120
+            100
+            2
+          stdout: |
+            Maanden: 0
+            Bedrag: 120.00
+            Doel al bereikt
+    - testcases:
+        - stdin: |
+            100
+            110
+            5
+          stdout: |
+            Maanden: 2
+            Bedrag: 110.25
+            Nog gespaard
+    - testcases:
+        - stdin: |
+            50
+            60
+            10
+          stdout: |
+            Maanden: 2
+            Bedrag: 60.50
+            Nog gespaard
+    - testcases:
+        - stdin: |
+            200
+            250
+            5
+          stdout: |
+            Maanden: 5
+            Bedrag: 255.26
+            Nog gespaard

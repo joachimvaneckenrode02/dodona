@@ -1,0 +1,37 @@
+- tab: Basis
+  contexts:
+    - testcases:
+        - stdin: |
+            1
+          stdout: |
+            Aantal: 1
+            Som: 1
+            Precies gelijk
+    - testcases:
+        - stdin: |
+            2
+          stdout: |
+            Aantal: 2
+            Som: 3
+            Niet precies gelijk
+    - testcases:
+        - stdin: |
+            6
+          stdout: |
+            Aantal: 3
+            Som: 6
+            Precies gelijk
+    - testcases:
+        - stdin: |
+            7
+          stdout: |
+            Aantal: 4
+            Som: 10
+            Niet precies gelijk
+    - testcases:
+        - stdin: |
+            15
+          stdout: |
+            Aantal: 5
+            Som: 15
+            Precies gelijk
