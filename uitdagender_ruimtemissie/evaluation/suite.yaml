@@ -1,0 +1,18 @@
+- tab: Basis
+  contexts:
+    - testcases:
+        - stdout: |
+            Astronaut Nova meldt zich aan.
+            Missie mag starten.
+            zuurstof uitstekend
+            Module 1 gecontroleerd.
+            Module 2 gecontroleerd.
+            Module 3 gecontroleerd.
+            Module 4 gecontroleerd.
+            Lancering over 5
+            Lancering over 4
+            Extra systeemcontrole
+            Lancering over 3
+            Lancering over 2
+            Lancering over 1
+            Lancering!

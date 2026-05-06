@@ -1,0 +1,12 @@
+{
+    "description": {
+        "names": {
+            "nl": "Pretparkplanner"
+        }
+    },
+    "evaluation": {
+        "judge": "tested",
+        "plan_name": "suite.yaml"
+    },
+    "programming_language": "javascript"
+}

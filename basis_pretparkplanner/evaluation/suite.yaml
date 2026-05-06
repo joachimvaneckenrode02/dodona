@@ -1,0 +1,16 @@
+- tab: Basis
+  contexts:
+    - testcases:
+        - stdout: |
+            Welkom Mila!
+            Je mag in de achtbaan.
+            goed budget
+            Attractie 1 gepland.
+            Attractie 2 gepland.
+            Attractie 3 gepland.
+            Attractie 4 gepland.
+            Attractie 5 gepland.
+            Start over 3
+            Start over 2
+            Start over 1
+            Veel plezier!
