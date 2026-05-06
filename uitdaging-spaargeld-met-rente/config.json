@@ -1,0 +1,12 @@
+{
+  "description": {
+    "names": {
+      "nl": "Spaargeld met rente"
+    }
+  },
+  "evaluation": {
+    "judge": "tested",
+    "plan_name": "suite.yaml"
+  },
+  "programming_language": "javascript"
+}
