@@ -12,10 +12,7 @@ var puntenPerRonde = 3;
 var grens = 15;
 ```
 
-Gebruik een `while`-lus.  
 De lus loopt zolang het totaal kleiner is dan de grens.
-
-In de lus gebruik je een `if`.
 
 Na elke ronde verhoog je het totaal met `puntenPerRonde`.  
 Daarna toon je het totaal.
