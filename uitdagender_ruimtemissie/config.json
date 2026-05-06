@@ -1,12 +1,16 @@
 {
-    "description": {
-        "names": {
-            "nl": "Ruimtemissie"
-        }
-    },
-    "evaluation": {
-        "judge": "tested",
-        "plan_name": "suite.yaml"
-    },
-    "programming_language": "javascript"
+  "description": {
+    "names": {
+      "nl": "Ruimtemissie"
+    }
+  },
+  "evaluation": {
+    "judge": "tested",
+    "plan_name": "suite.yaml"
+  },
+  "programming_language": "javascript",
+  "internals": {
+    "token": "fYMcjKXzrc5Ypds8526zPNGF65_VCaRPHKERgYmUHtXpKXtDT6kJR5Cm6NaqKwpY",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
 }

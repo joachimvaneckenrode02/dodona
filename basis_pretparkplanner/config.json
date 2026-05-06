@@ -1,12 +1,16 @@
 {
-    "description": {
-        "names": {
-            "nl": "Pretparkplanner"
-        }
-    },
-    "evaluation": {
-        "judge": "tested",
-        "plan_name": "suite.yaml"
-    },
-    "programming_language": "javascript"
+  "description": {
+    "names": {
+      "nl": "Pretparkplanner"
+    }
+  },
+  "evaluation": {
+    "judge": "tested",
+    "plan_name": "suite.yaml"
+  },
+  "programming_language": "javascript",
+  "internals": {
+    "token": "Cq7xP5jDTqXvAzfKHB4XY2KeE2gNpvR7XPfyv8ExRAV7iqS5BimYMhnZTNbzdGuc",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
 }
