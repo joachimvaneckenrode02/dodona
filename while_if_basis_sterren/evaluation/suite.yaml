@@ -1,0 +1,5 @@
+- tab: Basis
+  contexts:
+    - testcases:
+        - stdin: ""
+          stdout: "1 is oneven\n2 is even\n3 is oneven\n4 is even\n5 is oneven\n6 is even\n"

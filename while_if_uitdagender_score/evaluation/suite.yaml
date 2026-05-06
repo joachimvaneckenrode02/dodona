@@ -1,0 +1,5 @@
+- tab: Basis
+  contexts:
+    - testcases:
+        - stdin: ""
+          stdout: "Ronde 1: 3 punten\nNog niet genoeg.\nRonde 2: 6 punten\nNog niet genoeg.\nRonde 3: 9 punten\nNog niet genoeg.\nRonde 4: 12 punten\nNog niet genoeg.\nRonde 5: 15 punten\nGrens bereikt!\n"
