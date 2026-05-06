@@ -1,0 +1,38 @@
+- tab: "Basis"
+  contexts:
+    - testcases:
+        - stdin: "1"
+          stdout: |
+            1
+            Start!
+        - stdin: "3"
+          stdout: |
+            3
+            2
+            1
+            Start!
+        - stdin: "5"
+          stdout: |
+            5
+            4
+            3
+            2
+            1
+            Start!
+
+- tab: "Grotere waarden"
+  contexts:
+    - testcases:
+        - stdin: "10"
+          stdout: |
+            10
+            9
+            8
+            7
+            6
+            5
+            4
+            3
+            2
+            1
+            Start!

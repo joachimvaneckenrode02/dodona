@@ -1,0 +1,42 @@
+- tab: "Basis"
+  contexts:
+    - testcases:
+        - stdin: |
+            5
+            1
+          stdout: |
+            Na week 1: 5 euro
+        - stdin: |
+            5
+            4
+          stdout: |
+            Na week 1: 5 euro
+            Na week 2: 10 euro
+            Na week 3: 15 euro
+            Na week 4: 20 euro
+        - stdin: |
+            2
+            5
+          stdout: |
+            Na week 1: 2 euro
+            Na week 2: 4 euro
+            Na week 3: 6 euro
+            Na week 4: 8 euro
+            Na week 5: 10 euro
+
+- tab: "Grenswaarden"
+  contexts:
+    - testcases:
+        - stdin: |
+            10
+            0
+          stdout: ""
+        - stdin: |
+            0
+            5
+          stdout: |
+            Na week 1: 0 euro
+            Na week 2: 0 euro
+            Na week 3: 0 euro
+            Na week 4: 0 euro
+            Na week 5: 0 euro
