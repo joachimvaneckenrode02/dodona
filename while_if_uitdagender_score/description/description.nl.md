@@ -12,7 +12,7 @@ var puntenPerRonde = 3;
 var grens = 15;
 ```
 
-De lus loopt zolang het totaal kleiner is dan de grens.
+De lus loopt zolang het totaal kleiner is dan de grens!
 
 Na elke ronde verhoog je het totaal met `puntenPerRonde`.  
 Daarna toon je het totaal.
