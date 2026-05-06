@@ -8,9 +8,6 @@ De opgegeven variabele is:
 var aantal = 6;
 ```
 
-Gebruik een `while`-lus.  
-In de lus gebruik je een `if`.
-
 Voor elk getal toon je een zin.  
 Bij even getallen toon je dat het getal even is.  
 Bij oneven getallen toon je dat het getal oneven is.
