@@ -1,0 +1,69 @@
+tabs:
+- name: Basis
+  contexts:
+  - testcases:
+    - stdin: '100
+
+        40
+
+        15
+
+        '
+      stdout: 'Na 4 extra weken heb je 100 euro gespaard.
+
+        '
+  - testcases:
+    - stdin: '100
+
+        45
+
+        20
+
+        '
+      stdout: 'Na 3 extra weken heb je 105 euro gespaard.
+
+        '
+  - testcases:
+    - stdin: '100
+
+        100
+
+        10
+
+        '
+      stdout: 'Na 0 extra weken heb je 100 euro gespaard.
+
+        '
+  - testcases:
+    - stdin: '50
+
+        49
+
+        1
+
+        '
+      stdout: 'Na 1 extra weken heb je 50 euro gespaard.
+
+        '
+  - testcases:
+    - stdin: '200
+
+        0
+
+        50
+
+        '
+      stdout: 'Na 4 extra weken heb je 200 euro gespaard.
+
+        '
+  - testcases:
+    - stdin: '200
+
+        10
+
+        60
+
+        '
+      stdout: 'Na 4 extra weken heb je 250 euro gespaard.
+
+        '

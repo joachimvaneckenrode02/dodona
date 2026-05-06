@@ -1,0 +1,12 @@
+{
+  "description": {
+    "names": {
+      "nl": "Sparen met startbedrag"
+    }
+  },
+  "evaluation": {
+    "judge": "tested",
+    "plan_name": "suite.yaml"
+  },
+  "programming_language": "javascript"
+}
