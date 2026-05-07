@@ -1,12 +1,16 @@
 {
-    "description": {
-        "names": {
-            "nl": "Bevriende getallenparen"
-        }
-    },
-    "evaluation": {
-        "judge": "tested",
-        "plan_name": "suite.yaml"
-    },
-    "programming_language": "javascript"
+  "description": {
+    "names": {
+      "nl": "Bevriende getallenparen"
+    }
+  },
+  "evaluation": {
+    "judge": "tested",
+    "plan_name": "suite.yaml"
+  },
+  "programming_language": "javascript",
+  "internals": {
+    "token": "-AcZUU-3uCBP4CUdNDfbiPP2rakkVCd9MrRU-WwsZHGEqeN8Txz5jG2WavPyA8_Y",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
 }

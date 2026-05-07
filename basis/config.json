@@ -1,12 +1,16 @@
 {
-    "description": {
-        "names": {
-            "nl": "Perfecte getallen zoeken"
-        }
-    },
-    "evaluation": {
-        "judge": "tested",
-        "plan_name": "suite.yaml"
-    },
-    "programming_language": "javascript"
+  "description": {
+    "names": {
+      "nl": "Perfecte getallen zoeken"
+    }
+  },
+  "evaluation": {
+    "judge": "tested",
+    "plan_name": "suite.yaml"
+  },
+  "programming_language": "javascript",
+  "internals": {
+    "token": "inSzgjGQGAXmkUMRKW4JAHd8PTy8TCJYbMmc28cGu4igVJAyt7Uq7bRn4qHuG8Ha",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
 }
