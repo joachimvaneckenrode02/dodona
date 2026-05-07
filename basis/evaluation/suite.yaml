@@ -1,0 +1,5 @@
+- tab: Basis
+  contexts:
+    - testcases:
+        - stdin: ""
+          stdout: "6\n28\naantal: 2\n"
