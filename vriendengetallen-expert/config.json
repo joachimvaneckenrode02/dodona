@@ -8,5 +8,9 @@
     "judge": "tested",
     "plan_name": "suite.yaml"
   },
-  "programming_language": "javascript"
+  "programming_language": "javascript",
+  "internals": {
+    "token": "FB2SaVs-Qgrrd33_5anp8vYWH2su9XtD43GZrZFuAMQ367PyfjySTwSCZUzKvf_8",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
 }
