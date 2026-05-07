@@ -1,0 +1,56 @@
+- tab: Basis
+  contexts:
+  - testcases:
+    - stdin: '1
+
+        '
+      stdout: 'Som van de delers: 0
+
+        1 is geen perfect getal.
+
+        '
+  - testcases:
+    - stdin: '6
+
+        '
+      stdout: 'Som van de delers: 6
+
+        6 is een perfect getal.
+
+        '
+  - testcases:
+    - stdin: '12
+
+        '
+      stdout: 'Som van de delers: 16
+
+        12 is geen perfect getal.
+
+        '
+  - testcases:
+    - stdin: '28
+
+        '
+      stdout: 'Som van de delers: 28
+
+        28 is een perfect getal.
+
+        '
+  - testcases:
+    - stdin: '496
+
+        '
+      stdout: 'Som van de delers: 496
+
+        496 is een perfect getal.
+
+        '
+  - testcases:
+    - stdin: '500
+
+        '
+      stdout: 'Som van de delers: 592
+
+        500 is geen perfect getal.
+
+        '

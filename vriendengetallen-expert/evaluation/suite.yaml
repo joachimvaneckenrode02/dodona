@@ -1,0 +1,80 @@
+- tab: Basis
+  contexts:
+  - testcases:
+    - stdin: '220
+
+        284
+
+        '
+      stdout: 'Som bij 220: 284
+
+        Som bij 284: 220
+
+        220 en 284 zijn vriendengetallen.
+
+        '
+  - testcases:
+    - stdin: '284
+
+        220
+
+        '
+      stdout: 'Som bij 284: 220
+
+        Som bij 220: 284
+
+        284 en 220 zijn vriendengetallen.
+
+        '
+  - testcases:
+    - stdin: '6
+
+        6
+
+        '
+      stdout: 'Som bij 6: 6
+
+        Som bij 6: 6
+
+        6 en 6 zijn geen vriendengetallen.
+
+        '
+  - testcases:
+    - stdin: '10
+
+        20
+
+        '
+      stdout: 'Som bij 10: 8
+
+        Som bij 20: 22
+
+        10 en 20 zijn geen vriendengetallen.
+
+        '
+  - testcases:
+    - stdin: '1184
+
+        1210
+
+        '
+      stdout: 'Som bij 1184: 1210
+
+        Som bij 1210: 1184
+
+        1184 en 1210 zijn vriendengetallen.
+
+        '
+  - testcases:
+    - stdin: '1
+
+        1
+
+        '
+      stdout: 'Som bij 1: 0
+
+        Som bij 1: 0
+
+        1 en 1 zijn geen vriendengetallen.
+
+        '
