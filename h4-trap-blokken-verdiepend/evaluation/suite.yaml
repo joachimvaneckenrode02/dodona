@@ -1,4 +1,6 @@
 - tab: Basis
   contexts:
   - testcases:
-    - stdout: 'Voor 5 rijen heb je 15 blokken nodig.\nDit is een middelgrote trap.\n'
+    - stdout: |
+        Voor 5 rijen heb je 15 blokken nodig.
+        Dit is een middelgrote trap.
