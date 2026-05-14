@@ -9,9 +9,13 @@ En zo gaat het verder.
 
 Je test je code eerst in [Papyros](https://papyros.dodona.be/).
 
-## Invoer
+## Opgegeven variabelen
 
-De gebruiker voert één geheel getal in: het aantal rijen van de trap.
+Gebruik deze variabele in je code:
+
+```javascript
+var aantalRijen = 5;
+```
 
 ## Verwerking
 
@@ -28,10 +32,6 @@ Gebruik daarna een selectie om de trap te beoordelen:
 Print exact twee zinnen:
 
 ```text
-Voor X rijen heb je Y blokken nodig.
-Dit is een Z.
+Voor 5 rijen heb je 15 blokken nodig.
+Dit is een middelgrote trap.
 ```
-
-Vervang `X` door het aantal rijen.
-Vervang `Y` door het totale aantal blokken.
-Vervang `Z` door de juiste beoordeling.
