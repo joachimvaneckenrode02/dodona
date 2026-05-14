@@ -1,0 +1,6 @@
+- tab: Basis
+  contexts:
+  - testcases:
+    - stdout: |
+        Er kunnen 8 leerlingen deelnemen.
+        Er blijft 2 euro over. Dit is een normale groep.
