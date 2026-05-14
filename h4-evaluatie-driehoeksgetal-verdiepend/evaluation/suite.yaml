@@ -1,0 +1,6 @@
+- tab: Basis
+  contexts:
+  - testcases:
+    - stdout: |
+        Het driehoeksgetal van 12 is 78.
+        Dit is een middelgroot driehoeksgetal.
