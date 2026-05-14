@@ -1,0 +1,6 @@
+- tab: Basis
+  contexts:
+  - testcases:
+    - stdout: |
+        De zaal heeft 96 zitplaatsen.
+        Dit is een middelgrote zaal.
