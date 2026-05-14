@@ -1,0 +1,6 @@
+- tab: Basis
+  contexts:
+  - testcases:
+    - stdout: |
+        Voor 5 rechthoeken heb je 80 blokjes nodig.
+        Dit is een middelgroot bouwwerk.
