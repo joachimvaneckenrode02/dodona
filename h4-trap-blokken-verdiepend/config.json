@@ -1,0 +1,12 @@
+{
+  "description": {
+    "names": {
+      "nl": "H4 - Trap van blokken - verdiepend"
+    }
+  },
+  "evaluation": {
+    "judge": "tested",
+    "plan_name": "suite.yaml"
+  },
+  "programming_language": "javascript"
+}
