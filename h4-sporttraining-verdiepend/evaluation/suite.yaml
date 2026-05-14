@@ -1,0 +1,6 @@
+- tab: Basis
+  contexts:
+  - testcases:
+    - stdout: |
+        In 6 dagen loopt de leerling 105 minuten.
+        Dit is een stevige training.
