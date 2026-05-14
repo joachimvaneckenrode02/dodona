@@ -4,12 +4,14 @@ Je spaart elke week hetzelfde bedrag.
 
 Je test je code eerst in [Papyros](https://papyros.dodona.be/).
 
-## Invoer
+## Opgegeven variabelen
 
-De gebruiker voert twee gehele getallen in:
+Gebruik deze variabelen in je code:
 
-- het bedrag dat je elke week spaart;
-- het aantal weken.
+```javascript
+var bedragPerWeek = 5;
+var aantalWeken = 4;
+```
 
 ## Verwerking
 
@@ -20,8 +22,5 @@ Gebruik een `for`-lus om het totale spaarbedrag week per week op te bouwen.
 Print exact één zin:
 
 ```text
-Na X weken heb je Y euro gespaard.
+Na 4 weken heb je 20 euro gespaard.
 ```
-
-Vervang `X` door het aantal weken.
-Vervang `Y` door het totale spaarbedrag.
