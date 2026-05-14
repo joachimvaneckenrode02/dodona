@@ -1,0 +1,14 @@
+- tab: Basis
+  contexts:
+  - testcases:
+    - stdin: '8\n'
+      stdout: 'Het getal 8 is even.\n'
+  - testcases:
+    - stdin: '7\n'
+      stdout: 'Het getal 7 is oneven.\n'
+  - testcases:
+    - stdin: '0\n'
+      stdout: 'Het getal 0 is even.\n'
+  - testcases:
+    - stdin: '15\n'
+      stdout: 'Het getal 15 is oneven.\n'
