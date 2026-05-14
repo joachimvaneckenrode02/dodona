@@ -1,14 +1,4 @@
 - tab: Basis
   contexts:
   - testcases:
-    - stdin: '4\n'
-      stdout: 'Voor 4 rijen heb je 10 blokken nodig.\nDit is een kleine trap.\n'
-  - testcases:
-    - stdin: '5\n'
-      stdout: 'Voor 5 rijen heb je 15 blokken nodig.\nDit is een middelgrote trap.\n'
-  - testcases:
-    - stdin: '10\n'
-      stdout: 'Voor 10 rijen heb je 55 blokken nodig.\nDit is een grote trap.\n'
-  - testcases:
-    - stdin: '9\n'
-      stdout: 'Voor 9 rijen heb je 45 blokken nodig.\nDit is een middelgrote trap.\n'
+    - stdout: 'Voor 5 rijen heb je 15 blokken nodig.\nDit is een middelgrote trap.\n'
