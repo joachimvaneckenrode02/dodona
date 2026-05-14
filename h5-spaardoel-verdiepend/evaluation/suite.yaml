@@ -1,0 +1,6 @@
+- tab: Basis
+  contexts:
+  - testcases:
+    - stdout: |
+        Na 5 weken heb je 125 euro.
+        Dit spaardoel is haalbaar.
