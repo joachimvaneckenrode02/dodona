@@ -1,0 +1,12 @@
+{
+  "description": {
+    "names": {
+      "nl": "H5 - Filmavond plannen - verdiepend"
+    }
+  },
+  "evaluation": {
+    "judge": "tested",
+    "plan_name": "suite.yaml"
+  },
+  "programming_language": "javascript"
+}
