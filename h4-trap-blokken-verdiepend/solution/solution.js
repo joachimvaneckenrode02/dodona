@@ -1,12 +1,4 @@
-var input = require("fs").readFileSync(0, "utf8").trim().split(/\s+/);
-var index = 0;
-function prompt() {
-    var waarde = input[index];
-    index = index + 1;
-    return waarde;
-}
-
-var aantalRijen = Number(prompt());
+var aantalRijen = 5;
 
 var aantalBlokken = 0;
 
