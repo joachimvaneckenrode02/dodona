@@ -1,0 +1,5 @@
+- tab: Basis
+  contexts:
+  - testcases:
+    - stdout: |
+        Na 7 dagen heeft de leerling 45500 stappen gezet.
