@@ -1,0 +1,5 @@
+- tab: Basis
+  contexts:
+  - testcases:
+    - stdout: |
+        Na 5 emmers zit er 35 liter in de waterbak.
