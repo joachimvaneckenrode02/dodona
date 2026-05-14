@@ -1,4 +1,5 @@
 - tab: Basis
   contexts:
   - testcases:
-    - stdout: 'Na 4 weken heb je 20 euro gespaard.\n'
+    - stdout: |
+        Na 4 weken heb je 20 euro gespaard.
