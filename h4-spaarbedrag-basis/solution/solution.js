@@ -1,13 +1,5 @@
-var input = require("fs").readFileSync(0, "utf8").trim().split(/\s+/);
-var index = 0;
-function prompt() {
-    var waarde = input[index];
-    index = index + 1;
-    return waarde;
-}
-
-var bedragPerWeek = Number(prompt());
-var aantalWeken = Number(prompt());
+var bedragPerWeek = 5;
+var aantalWeken = 4;
 
 var totaal = 0;
 
