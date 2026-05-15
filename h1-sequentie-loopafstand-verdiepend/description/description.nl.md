@@ -4,16 +4,17 @@ Tijdens de sportles loop je rond een rechthoekig terrein.
 
 Je test je code eerst in [Papyros](https://papyros.dodona.be/).
 
-## Opgegeven variabelen
+## Invoer
 
-Gebruik deze variabelen:
+De gebruiker geeft vier gehele getallen in.
 
-```python
-lengte = 28
-breedte = 15
-aantal_rondes = 3
-extra_meter = 35
-```
+Eerst geef je de lengte van het terrein in.
+
+Daarna geef je de breedte van het terrein in.
+
+Daarna geef je het aantal volledige rondes in.
+
+Daarna geef je het aantal extra meters in.
 
 ## Verwerking
 
@@ -24,6 +25,17 @@ Bereken daarna hoeveel meter je loopt voor alle volledige rondes samen.
 Tel daar de extra meters bij.
 
 ## Exacte uitvoer
+
+Bij de invoer:
+
+```text
+28
+15
+3
+35
+```
+
+verschijnt:
 
 ```text
 Een ronde is 86 meter.
