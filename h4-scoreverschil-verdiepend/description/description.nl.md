@@ -1,4 +1,4 @@
-# H4 - Scoreverschil optellen - verdiepend
+# Evaluatie H4 v2 - Scoreverschil optellen - verdiepend
 
 Een ploeg speelt meerdere wedstrijden.
 
