@@ -1,7 +1,32 @@
 - tab: Basis
   contexts:
   - testcases:
-    - stdout: |
+    - stdin: |
+        28
+        15
+        3
+        35
+      stdout: |
         Een ronde is 86 meter.
         Na 3 rondes loop je 258 meter.
         Met de extra afstand erbij loop je 293 meter.
+  - testcases:
+    - stdin: |
+        20
+        10
+        4
+        25
+      stdout: |
+        Een ronde is 60 meter.
+        Na 4 rondes loop je 240 meter.
+        Met de extra afstand erbij loop je 265 meter.
+  - testcases:
+    - stdin: |
+        35
+        18
+        2
+        40
+      stdout: |
+        Een ronde is 106 meter.
+        Na 2 rondes loop je 212 meter.
+        Met de extra afstand erbij loop je 252 meter.
