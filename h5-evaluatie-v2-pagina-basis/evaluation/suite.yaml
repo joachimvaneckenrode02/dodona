@@ -1,0 +1,5 @@
+- tab: Basis
+  contexts:
+  - testcases:
+    - stdout: |
+        Na 8 dagen heeft de leerling 96 pagina's gelezen.
