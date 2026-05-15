@@ -1,0 +1,5 @@
+- tab: Basis
+  contexts:
+  - testcases:
+    - stdout: |
+        Er moeten nog 9 drankjes verkocht worden.
