@@ -1,7 +1,7 @@
-lengte = 28
-breedte = 15
-aantal_rondes = 3
-extra_meter = 35
+lengte = int(input())
+breedte = int(input())
+aantal_rondes = int(input())
+extra_meter = int(input())
 
 omtrek = 2 * lengte + 2 * breedte
 afstand_rondes = omtrek * aantal_rondes
