@@ -1,0 +1,6 @@
+- tab: Basis
+  contexts:
+  - testcases:
+    - stdout: |
+        De leerling koopt 7 broodjes.
+        Er blijft 2 euro over.
