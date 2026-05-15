@@ -2,31 +2,46 @@
   contexts:
   - testcases:
     - stdin: |
+        Noor
         4
-        3
+        2.75
+        23
+        10
+        1.80
+      stdout: |
+        Bestelling voor Noor.
+        De schriften kosten 11.0 euro.
+        Je koopt 3 dozen potloden.
+        Er zijn 7 potloden over.
+        De potloden kosten 5.4 euro.
+        In totaal betaal je 16.4 euro.
+  - testcases:
+    - stdin: |
+        Adam
         6
-        2
+        1.95
+        37
+        12
+        2.40
       stdout: |
-        De schriften kosten 12 euro.
-        De pennen kosten 12 euro.
-        In totaal betaal je 24 euro.
+        Bestelling voor Adam.
+        De schriften kosten 11.7 euro.
+        Je koopt 4 dozen potloden.
+        Er zijn 11 potloden over.
+        De potloden kosten 9.6 euro.
+        In totaal betaal je 21.3 euro.
   - testcases:
     - stdin: |
-        5
-        2
-        3
-        4
-      stdout: |
-        De schriften kosten 10 euro.
-        De pennen kosten 12 euro.
-        In totaal betaal je 22 euro.
-  - testcases:
-    - stdin: |
-        7
-        3
+        Lina
+        9
+        2.30
+        18
         8
-        1
+        1.65
       stdout: |
-        De schriften kosten 21 euro.
-        De pennen kosten 8 euro.
-        In totaal betaal je 29 euro.
+        Bestelling voor Lina.
+        De schriften kosten 20.7 euro.
+        Je koopt 3 dozen potloden.
+        Er zijn 6 potloden over.
+        De potloden kosten 4.95 euro.
+        In totaal betaal je 25.65 euro.
