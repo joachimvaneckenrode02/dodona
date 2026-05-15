@@ -1,0 +1,6 @@
+- tab: Basis
+  contexts:
+  - testcases:
+    - stdout: |
+        Na 7 maanden is de schuld afbetaald.
+        De laatste stand is -45 euro. Dit is een normale afbetaling.
