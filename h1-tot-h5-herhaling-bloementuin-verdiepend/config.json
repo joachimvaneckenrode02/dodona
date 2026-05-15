@@ -1,0 +1,12 @@
+{
+  "description": {
+    "names": {
+      "nl": "Herhaling H1-H5 - Bloementuin vullen - verdiepend"
+    }
+  },
+  "evaluation": {
+    "judge": "tested",
+    "plan_name": "suite.yaml"
+  },
+  "programming_language": "javascript"
+}
