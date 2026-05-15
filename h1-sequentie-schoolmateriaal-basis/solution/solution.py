@@ -6,7 +6,7 @@ potloden_per_doos = int(input())
 prijs_doos = float(input())
 
 kost_schriften = aantal_schriften * prijs_schrift
-aantal_dozen = aantal_potloden // potloden_per_doos + 1
+aantal_dozen = (aantal_potloden + potloden_per_doos - 1) // potloden_per_doos
 over = aantal_dozen * potloden_per_doos - aantal_potloden
 kost_potloden = aantal_dozen * prijs_doos
 totaal = kost_schriften + kost_potloden
