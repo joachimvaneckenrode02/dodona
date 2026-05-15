@@ -1,0 +1,6 @@
+- tab: Basis
+  contexts:
+  - testcases:
+    - stdout: |
+        De tuinier plant 69 bloemen.
+        Dit is een middelgrote bloementuin.
