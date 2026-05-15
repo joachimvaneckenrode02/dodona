@@ -1,0 +1,6 @@
+- tab: Basis
+  contexts:
+  - testcases:
+    - stdout: |
+        Na 7 weken is de plant 74 cm hoog.
+        Dit is een normale groei.
