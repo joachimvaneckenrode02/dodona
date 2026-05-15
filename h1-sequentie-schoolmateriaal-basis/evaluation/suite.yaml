@@ -1,7 +1,32 @@
 - tab: Basis
   contexts:
   - testcases:
-    - stdout: |
+    - stdin: |
+        4
+        3
+        6
+        2
+      stdout: |
         De schriften kosten 12 euro.
         De pennen kosten 12 euro.
         In totaal betaal je 24 euro.
+  - testcases:
+    - stdin: |
+        5
+        2
+        3
+        4
+      stdout: |
+        De schriften kosten 10 euro.
+        De pennen kosten 12 euro.
+        In totaal betaal je 22 euro.
+  - testcases:
+    - stdin: |
+        7
+        3
+        8
+        1
+      stdout: |
+        De schriften kosten 21 euro.
+        De pennen kosten 8 euro.
+        In totaal betaal je 29 euro.
