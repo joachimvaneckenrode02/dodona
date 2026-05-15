@@ -1,0 +1,6 @@
+- tab: Basis
+  contexts:
+  - testcases:
+    - stdout: |
+        De leerling traint 150 minuten.
+        Dit is een goede training.
