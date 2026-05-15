@@ -1,0 +1,6 @@
+- tab: Basis
+  contexts:
+  - testcases:
+    - stdout: |
+        De leerling behaalt 144 punten.
+        Dit is een goede score.
