@@ -1,0 +1,6 @@
+- tab: Basis
+  contexts:
+  - testcases:
+    - stdout: |
+        Na 6 wedstrijden is het totale scoreverschil 30 punten.
+        Dit is een duidelijk verschil.
