@@ -2,31 +2,31 @@
   contexts:
   - testcases:
     - stdin: |
-        28
-        15
-        3
-        35
-      stdout: |
-        Een ronde is 86 meter.
-        Na 3 rondes loop je 258 meter.
-        Met de extra afstand erbij loop je 293 meter.
-  - testcases:
-    - stdin: |
-        20
-        10
-        4
-        25
-      stdout: |
-        Een ronde is 60 meter.
-        Na 4 rondes loop je 240 meter.
-        Met de extra afstand erbij loop je 265 meter.
-  - testcases:
-    - stdin: |
-        35
+        30
         18
-        2
-        40
+        4
       stdout: |
-        Een ronde is 106 meter.
-        Na 2 rondes loop je 212 meter.
-        Met de extra afstand erbij loop je 252 meter.
+        De oppervlakte van het terrein is 540 vierkante meter.
+        De diagonaal is 34.99 meter.
+        De ronde zone heeft een oppervlakte van 50.27 vierkante meter.
+        Er blijft 489.73 vierkante meter over.
+  - testcases:
+    - stdin: |
+        25
+        12
+        3
+      stdout: |
+        De oppervlakte van het terrein is 300 vierkante meter.
+        De diagonaal is 27.73 meter.
+        De ronde zone heeft een oppervlakte van 28.27 vierkante meter.
+        Er blijft 271.73 vierkante meter over.
+  - testcases:
+    - stdin: |
+        40
+        25
+        6
+      stdout: |
+        De oppervlakte van het terrein is 1000 vierkante meter.
+        De diagonaal is 47.17 meter.
+        De ronde zone heeft een oppervlakte van 113.1 vierkante meter.
+        Er blijft 886.9 vierkante meter over.
