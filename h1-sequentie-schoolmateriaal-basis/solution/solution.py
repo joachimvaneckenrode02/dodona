@@ -1,7 +1,7 @@
-aantal_schriften = 4
-prijs_schrift = 3
-aantal_pennen = 6
-prijs_pen = 2
+aantal_schriften = int(input())
+prijs_schrift = int(input())
+aantal_pennen = int(input())
+prijs_pen = int(input())
 
 kost_schriften = aantal_schriften * prijs_schrift
 kost_pennen = aantal_pennen * prijs_pen
