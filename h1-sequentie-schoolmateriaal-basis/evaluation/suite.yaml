@@ -1,0 +1,7 @@
+- tab: Basis
+  contexts:
+  - testcases:
+    - stdout: |
+        De schriften kosten 12 euro.
+        De pennen kosten 12 euro.
+        In totaal betaal je 24 euro.
