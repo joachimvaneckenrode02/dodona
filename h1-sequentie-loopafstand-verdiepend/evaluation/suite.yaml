@@ -1,0 +1,7 @@
+- tab: Basis
+  contexts:
+  - testcases:
+    - stdout: |
+        Een ronde is 86 meter.
+        Na 3 rondes loop je 258 meter.
+        Met de extra afstand erbij loop je 293 meter.
