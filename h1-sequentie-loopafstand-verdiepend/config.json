@@ -1,1 +1,16 @@
-{"description":{"names":{"nl":"H1 - Sequentie - Loopafstand - verdiepend"}},"evaluation":{"judge":"tested","plan_name":"suite.yaml"},"programming_language":"python"}
+{
+  "description": {
+    "names": {
+      "nl": "H1 - Sequentie - Loopafstand - verdiepend"
+    }
+  },
+  "evaluation": {
+    "judge": "tested",
+    "plan_name": "suite.yaml"
+  },
+  "programming_language": "python",
+  "internals": {
+    "token": "ThRFCtTk_ptSCh5MmNQHjQv-5bdvFdbncj8NwExW6AX5arqCH8HkraMqdbqWEnaV",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
