@@ -1,0 +1,6 @@
+- tab: Basis
+  contexts:
+  - testcases:
+    - stdout: |
+        Na 6 rondes zijn er 384 bacteriën.
+        Dit is een normale groei.
