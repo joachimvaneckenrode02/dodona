@@ -1,0 +1,5 @@
+- tab: Basis
+  contexts:
+  - testcases:
+    - stdout: |
+        De parking heeft 112 parkeerplaatsen.
