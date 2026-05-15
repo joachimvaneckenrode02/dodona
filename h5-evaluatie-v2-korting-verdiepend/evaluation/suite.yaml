@@ -1,0 +1,6 @@
+- tab: Basis
+  contexts:
+  - testcases:
+    - stdout: |
+        Na 5 bonnen is de prijs 165 euro.
+        Dit is een normaal aantal bonnen.
