@@ -4,16 +4,17 @@ Je koopt schoolmateriaal voor het nieuwe schooljaar.
 
 Je test je code eerst in [Papyros](https://papyros.dodona.be/).
 
-## Opgegeven variabelen
+## Invoer
 
-Gebruik deze variabelen:
+De gebruiker geeft vier gehele getallen in.
 
-```python
-aantal_schriften = 4
-prijs_schrift = 3
-aantal_pennen = 6
-prijs_pen = 2
-```
+Eerst geef je het aantal schriften in.
+
+Daarna geef je de prijs van 1 schrift in.
+
+Daarna geef je het aantal pennen in.
+
+Daarna geef je de prijs van 1 pen in.
 
 ## Verwerking
 
@@ -24,6 +25,17 @@ Bereken de totale kostprijs van de pennen.
 Bereken daarna het totaalbedrag.
 
 ## Exacte uitvoer
+
+Bij de invoer:
+
+```text
+4
+3
+6
+2
+```
+
+verschijnt:
 
 ```text
 De schriften kosten 12 euro.
