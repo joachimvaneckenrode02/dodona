@@ -1,0 +1,6 @@
+- tab: Basis
+  contexts:
+  - testcases:
+    - stdout: |
+        Na 4 jaren is het bedrag 680.24 euro.
+        Dit is een normale wachttijd.
