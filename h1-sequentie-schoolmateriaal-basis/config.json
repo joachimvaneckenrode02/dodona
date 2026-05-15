@@ -1,1 +1,16 @@
-{"description":{"names":{"nl":"H1 - Sequentie - Schoolmateriaal - basis"}},"evaluation":{"judge":"tested","plan_name":"suite.yaml"},"programming_language":"python"}
+{
+  "description": {
+    "names": {
+      "nl": "H1 - Sequentie - Schoolmateriaal - basis"
+    }
+  },
+  "evaluation": {
+    "judge": "tested",
+    "plan_name": "suite.yaml"
+  },
+  "programming_language": "python",
+  "internals": {
+    "token": "NfWZBmfudNGM95bP7PG8urj72eUgmkJr24wWNsU_Dm424MjQC5AdKPq6kMUJ6ywA",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
