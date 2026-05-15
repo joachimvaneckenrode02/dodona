@@ -1,44 +1,46 @@
-# H1 - Sequentie - Loopafstand - verdiepend
+# H1 - Sequentie - Sportterrein - verdiepend
 
-Tijdens de sportles loop je rond een rechthoekig terrein.
+Tijdens de sportles werk je met een rechthoekig terrein en een ronde zone.
 
 Je test je code eerst in [Papyros](https://papyros.dodona.be/).
 
 ## Invoer
 
-De gebruiker geeft vier gehele getallen in.
+De gebruiker geeft drie gehele getallen in.
 
-Eerst geef je de lengte van het terrein in.
+Eerst geef je de lengte van het rechthoekige terrein in.
 
-Daarna geef je de breedte van het terrein in.
+Daarna geef je de breedte van het rechthoekige terrein in.
 
-Daarna geef je het aantal volledige rondes in.
-
-Daarna geef je het aantal extra meters in.
+Daarna geef je de straal van de ronde zone in.
 
 ## Verwerking
 
-Bereken eerst de omtrek van het terrein.
+Bereken de oppervlakte van het rechthoekige terrein.
 
-Bereken daarna hoeveel meter je loopt voor alle volledige rondes samen.
+Bereken de lengte van de diagonaal van het terrein.
 
-Tel daar de extra meters bij.
+Bereken de oppervlakte van de ronde zone met `math.pi`.
+
+Bereken hoeveel oppervlakte overblijft buiten de ronde zone.
+
+Rond de kommagetallen af op 2 cijfers na de komma.
 
 ## Exacte uitvoer
 
 Bij de invoer:
 
 ```text
-28
-15
-3
-35
+30
+18
+4
 ```
 
 verschijnt:
 
 ```text
-Een ronde is 86 meter.
-Na 3 rondes loop je 258 meter.
-Met de extra afstand erbij loop je 293 meter.
+De oppervlakte van het terrein is 540 vierkante meter.
+De diagonaal is 34.99 meter.
+De ronde zone heeft een oppervlakte van 50.27 vierkante meter.
+Er blijft 489.73 vierkante meter over.
 ```
