@@ -1,0 +1,12 @@
+{
+  "description": {
+    "names": {
+      "nl": "Evaluatie H5 v2 - Bus vullen - basis"
+    }
+  },
+  "evaluation": {
+    "judge": "tested",
+    "plan_name": "suite.yaml"
+  },
+  "programming_language": "javascript"
+}
