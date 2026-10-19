@@ -1,0 +1,38 @@
+- tab: Basis
+  contexts:
+  - testcases:
+    - stdin: |
+        42.5
+        1
+        35
+      stdout: |
+        Totale tijd: 95 minuten
+        Gemiddelde snelheid: 26.8 km/u
+        Tempo: 2.24 minuten per km
+  - testcases:
+    - stdin: |
+        18
+        0
+        50
+      stdout: |
+        Totale tijd: 50 minuten
+        Gemiddelde snelheid: 21.6 km/u
+        Tempo: 2.78 minuten per km
+  - testcases:
+    - stdin: |
+        100
+        4
+        0
+      stdout: |
+        Totale tijd: 240 minuten
+        Gemiddelde snelheid: 25.0 km/u
+        Tempo: 2.4 minuten per km
+  - testcases:
+    - stdin: |
+        63.2
+        2
+        17
+      stdout: |
+        Totale tijd: 137 minuten
+        Gemiddelde snelheid: 27.7 km/u
+        Tempo: 2.17 minuten per km

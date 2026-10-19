@@ -1,0 +1,38 @@
+- tab: Basis
+  contexts:
+  - testcases:
+    - stdin: |
+        47
+        6
+      stdout: |
+        Aantal ploegen: 7
+        Aantal scheidsrechters: 5
+        Aantal wedstrijden tegelijk: 3
+        Aantal ploegen dat rust: 1
+  - testcases:
+    - stdin: |
+        60
+        5
+      stdout: |
+        Aantal ploegen: 12
+        Aantal scheidsrechters: 0
+        Aantal wedstrijden tegelijk: 6
+        Aantal ploegen dat rust: 0
+  - testcases:
+    - stdin: |
+        23
+        4
+      stdout: |
+        Aantal ploegen: 5
+        Aantal scheidsrechters: 3
+        Aantal wedstrijden tegelijk: 2
+        Aantal ploegen dat rust: 1
+  - testcases:
+    - stdin: |
+        9
+        10
+      stdout: |
+        Aantal ploegen: 0
+        Aantal scheidsrechters: 9
+        Aantal wedstrijden tegelijk: 0
+        Aantal ploegen dat rust: 0

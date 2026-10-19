@@ -1,0 +1,37 @@
+- tab: Basis
+  contexts:
+  - testcases:
+    - stdin: |
+        3456
+      stdout: |
+        Som van de cijfers: 18
+        Omgekeerd getal: 6543
+        Getal + omgekeerd getal: 9999
+  - testcases:
+    - stdin: |
+        1200
+      stdout: |
+        Som van de cijfers: 3
+        Omgekeerd getal: 21
+        Getal + omgekeerd getal: 1221
+  - testcases:
+    - stdin: |
+        9087
+      stdout: |
+        Som van de cijfers: 24
+        Omgekeerd getal: 7809
+        Getal + omgekeerd getal: 16896
+  - testcases:
+    - stdin: |
+        1000
+      stdout: |
+        Som van de cijfers: 1
+        Omgekeerd getal: 1
+        Getal + omgekeerd getal: 1001
+  - testcases:
+    - stdin: |
+        2024
+      stdout: |
+        Som van de cijfers: 8
+        Omgekeerd getal: 4202
+        Getal + omgekeerd getal: 6226

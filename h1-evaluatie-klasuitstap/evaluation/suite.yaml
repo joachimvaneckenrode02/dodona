@@ -1,0 +1,46 @@
+- tab: Basis
+  contexts:
+  - testcases:
+    - stdin: |
+        Brugge
+        24
+        2
+        12.5
+        355
+      stdout: |
+        Uitstap naar Brugge.
+        Totale kostprijs: 680.0 euro
+        Prijs per leerling: 28.33 euro
+  - testcases:
+    - stdin: |
+        Antwerpen
+        18
+        2
+        21.5
+        420
+      stdout: |
+        Uitstap naar Antwerpen.
+        Totale kostprijs: 850.0 euro
+        Prijs per leerling: 47.22 euro
+  - testcases:
+    - stdin: |
+        Gent
+        30
+        3
+        8.75
+        299.99
+      stdout: |
+        Uitstap naar Gent.
+        Totale kostprijs: 588.74 euro
+        Prijs per leerling: 19.62 euro
+  - testcases:
+    - stdin: |
+        Plopsaland
+        45
+        4
+        39.0
+        0
+      stdout: |
+        Uitstap naar Plopsaland.
+        Totale kostprijs: 1911.0 euro
+        Prijs per leerling: 42.47 euro
