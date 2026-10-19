@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 255" font-family="Helvetica, Arial, sans-serif" font-size="15">
+<rect width="100%" height="100%" rx="10" fill="#fbf7f2"/>
+<rect x="40" y="60" width="300" height="120" rx="18" fill="#c8643b"/>
+<rect x="300" y="78" width="32" height="55" rx="6" fill="#dfeef5"/>
+<rect x="58" y="78" width="38" height="38" rx="6" fill="#dfeef5"/>
+<circle cx="77" cy="100" r="9" fill="#2f6f8f"/>
+<rect x="68" y="108" width="18" height="8" rx="3" fill="#2f6f8f"/>
+<rect x="105" y="78" width="38" height="38" rx="6" fill="#dfeef5"/>
+<circle cx="124" cy="100" r="9" fill="#2f6f8f"/>
+<rect x="115" y="108" width="18" height="8" rx="3" fill="#2f6f8f"/>
+<rect x="152" y="78" width="38" height="38" rx="6" fill="#dfeef5"/>
+<circle cx="171" cy="100" r="9" fill="#2f6f8f"/>
+<rect x="162" y="108" width="18" height="8" rx="3" fill="#2f6f8f"/>
+<rect x="199" y="78" width="38" height="38" rx="6" fill="#dfeef5"/>
+<circle cx="218" cy="100" r="9" fill="#2f6f8f"/>
+<rect x="209" y="108" width="18" height="8" rx="3" fill="#2f6f8f"/>
+<rect x="246" y="78" width="38" height="38" rx="6" fill="#dfeef5"/>
+<circle cx="265" cy="100" r="9" fill="#2f6f8f"/>
+<rect x="256" y="108" width="18" height="8" rx="3" fill="#2f6f8f"/>
+<rect x="40" y="140" width="300" height="10" fill="#3b2a20" opacity="0.15"/>
+<circle cx="100" cy="182" r="20" fill="#3b2a20"/><circle cx="100" cy="182" r="8" fill="#b9aca0"/>
+<circle cx="280" cy="182" r="20" fill="#3b2a20"/><circle cx="280" cy="182" r="8" fill="#b9aca0"/>
+<text x="190" y="40" text-anchor="middle" fill="#3b2a20" font-weight="bold">bus: vaste prijs</text>
+<text x="505" y="40" text-anchor="middle" fill="#3b2a20" font-weight="bold">1 ticket per persoon</text>
+<rect x="400" y="60" width="62" height="36" rx="5" fill="#f3c9a8" stroke="#c8643b" stroke-dasharray="5 3"/>
+<circle cx="400" cy="78" r="6" fill="#fbf7f2"/><circle cx="462" cy="78" r="6" fill="#fbf7f2"/>
+<text x="431" y="83" text-anchor="middle" fill="#c8643b" font-size="13" font-weight="bold">TICKET</text>
+<rect x="472" y="60" width="62" height="36" rx="5" fill="#f3c9a8" stroke="#c8643b" stroke-dasharray="5 3"/>
+<circle cx="472" cy="78" r="6" fill="#fbf7f2"/><circle cx="534" cy="78" r="6" fill="#fbf7f2"/>
+<text x="503" y="83" text-anchor="middle" fill="#c8643b" font-size="13" font-weight="bold">TICKET</text>
+<rect x="544" y="60" width="62" height="36" rx="5" fill="#f3c9a8" stroke="#c8643b" stroke-dasharray="5 3"/>
+<circle cx="544" cy="78" r="6" fill="#fbf7f2"/><circle cx="606" cy="78" r="6" fill="#fbf7f2"/>
+<text x="575" y="83" text-anchor="middle" fill="#c8643b" font-size="13" font-weight="bold">TICKET</text>
+<rect x="400" y="108" width="62" height="36" rx="5" fill="#f3c9a8" stroke="#c8643b" stroke-dasharray="5 3"/>
+<circle cx="400" cy="126" r="6" fill="#fbf7f2"/><circle cx="462" cy="126" r="6" fill="#fbf7f2"/>
+<text x="431" y="131" text-anchor="middle" fill="#c8643b" font-size="13" font-weight="bold">TICKET</text>
+<rect x="472" y="108" width="62" height="36" rx="5" fill="#f3c9a8" stroke="#c8643b" stroke-dasharray="5 3"/>
+<circle cx="472" cy="126" r="6" fill="#fbf7f2"/><circle cx="534" cy="126" r="6" fill="#fbf7f2"/>
+<text x="503" y="131" text-anchor="middle" fill="#c8643b" font-size="13" font-weight="bold">TICKET</text>
+<rect x="544" y="108" width="62" height="36" rx="5" fill="#f3c9a8" stroke="#c8643b" stroke-dasharray="5 3"/>
+<circle cx="544" cy="126" r="6" fill="#fbf7f2"/><circle cx="606" cy="126" r="6" fill="#fbf7f2"/>
+<text x="575" y="131" text-anchor="middle" fill="#c8643b" font-size="13" font-weight="bold">TICKET</text>
+<rect x="400" y="156" width="62" height="36" rx="5" fill="#f3c9a8" stroke="#c8643b" stroke-dasharray="5 3"/>
+<circle cx="400" cy="174" r="6" fill="#fbf7f2"/><circle cx="462" cy="174" r="6" fill="#fbf7f2"/>
+<text x="431" y="179" text-anchor="middle" fill="#c8643b" font-size="13" font-weight="bold">TICKET</text>
+<rect x="472" y="156" width="62" height="36" rx="5" fill="#f3c9a8" stroke="#c8643b" stroke-dasharray="5 3"/>
+<circle cx="472" cy="174" r="6" fill="#fbf7f2"/><circle cx="534" cy="174" r="6" fill="#fbf7f2"/>
+<text x="503" y="179" text-anchor="middle" fill="#c8643b" font-size="13" font-weight="bold">TICKET</text>
+<rect x="544" y="156" width="62" height="36" rx="5" fill="#f3c9a8" stroke="#c8643b" stroke-dasharray="5 3"/>
+<circle cx="544" cy="174" r="6" fill="#fbf7f2"/><circle cx="606" cy="174" r="6" fill="#fbf7f2"/>
+<text x="575" y="179" text-anchor="middle" fill="#c8643b" font-size="13" font-weight="bold">TICKET</text>
+<text x="330" y="235" text-anchor="middle" fill="#3b2a20">Leerkrachten betalen niets: alles wordt verdeeld over de leerlingen.</text>
+</svg>

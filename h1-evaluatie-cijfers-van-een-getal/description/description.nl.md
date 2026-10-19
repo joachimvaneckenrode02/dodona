@@ -1,14 +1,19 @@
 # Cijfers van een getal
 
+<p style="text-align: center;"><img src="media/cijfers.svg" alt="3456 wordt omgekeerd 6543. 1200 wordt omgekeerd 0021, dus 21." width="70%"></p>
+
 ## Gegeven
 
 Je krijgt een geheel getal van precies vier cijfers. Het eerste cijfer is nooit `0`.
 
-Het **omgekeerde getal** ontstaat door de vier cijfers in omgekeerde volgorde te zetten. Nullen vooraan vallen daarbij weg: het omgekeerde van `1200` is `21`.
+Het **omgekeerde getal** ontstaat door de vier cijfers in omgekeerde volgorde te zetten.
 
 ## Invoer
 
-Eén geheel getal van vier cijfers.
+| Volgorde | Gegeven | Type |
+|:--:|:--|:--|
+| 1 | een geheel getal van vier cijfers | geheel getal |
+{: .table}
 
 ## Gevraagd
 
@@ -17,6 +22,10 @@ Het programma bepaalt:
 - de som van de vier cijfers;
 - het omgekeerde getal;
 - de som van het getal en het omgekeerde getal.
+
+{: .callout.callout-warning}
+> #### Nullen vooraan
+> Het omgekeerde van 1200 is 21, niet 0021.
 
 ## Voorbeelden
 

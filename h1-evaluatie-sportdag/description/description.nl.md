@@ -1,5 +1,7 @@
 # Sportdag
 
+<p style="text-align: center;"><img src="media/sportdag.svg" alt="47 leerlingen in ploegen van 6: drie wedstrijden, één ploeg rust en vijf scheidsrechters." width="100%"></p>
+
 ## Gegeven
 
 Op de sportdag worden de leerlingen verdeeld in ploegen die allemaal even groot zijn. Er worden zoveel mogelijk volledige ploegen gevormd.
@@ -10,10 +12,11 @@ Een wedstrijd wordt altijd door twee ploegen gespeeld. Alle wedstrijden starten 
 
 ## Invoer
 
-Het programma vraagt na elkaar:
-
-1. het aantal leerlingen;
-2. het aantal spelers per ploeg.
+| Volgorde | Gegeven | Type |
+|:--:|:--|:--|
+| 1 | het aantal leerlingen | geheel getal |
+| 2 | het aantal spelers per ploeg | geheel getal |
+{: .table}
 
 ## Gevraagd
 
@@ -23,6 +26,10 @@ Het programma bepaalt:
 - het aantal scheidsrechters;
 - het aantal wedstrijden dat tegelijk gespeeld wordt;
 - het aantal ploegen dat rust.
+
+{: .callout.callout-warning}
+> #### Volledige ploegen
+> Een ploeg heeft altijd exact het opgegeven aantal spelers.
 
 ## Voorbeeld
 
