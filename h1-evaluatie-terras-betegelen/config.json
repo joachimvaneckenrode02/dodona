@@ -1,0 +1,12 @@
+{
+  "description": {
+    "names": {
+      "nl": "Terras betegelen"
+    }
+  },
+  "evaluation": {
+    "judge": "tested",
+    "plan_name": "suite.yaml"
+  },
+  "programming_language": "python"
+}

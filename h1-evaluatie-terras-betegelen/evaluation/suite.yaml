@@ -1,0 +1,67 @@
+- tab: Basis
+  contexts:
+  - testcases:
+    - stdin: |
+        430
+        290
+        60
+        8
+        34.95
+      stdout: |
+        Aantal tegels: 40
+        Waarvan gezaagd: 12
+        Aantal dozen: 5
+        Reservetegels: 0
+        Totale prijs: 174.75 euro
+  - testcases:
+    - stdin: |
+        480
+        300
+        60
+        10
+        42.5
+      stdout: |
+        Aantal tegels: 40
+        Waarvan gezaagd: 0
+        Aantal dozen: 4
+        Reservetegels: 0
+        Totale prijs: 170.0 euro
+  - testcases:
+    - stdin: |
+        500
+        240
+        50
+        12
+        29.99
+      stdout: |
+        Aantal tegels: 50
+        Waarvan gezaagd: 10
+        Aantal dozen: 5
+        Reservetegels: 10
+        Totale prijs: 149.95 euro
+  - testcases:
+    - stdin: |
+        301
+        199
+        30
+        15
+        19.8
+      stdout: |
+        Aantal tegels: 77
+        Waarvan gezaagd: 17
+        Aantal dozen: 6
+        Reservetegels: 13
+        Totale prijs: 118.8 euro
+  - testcases:
+    - stdin: |
+        100
+        100
+        40
+        4
+        12.0
+      stdout: |
+        Aantal tegels: 9
+        Waarvan gezaagd: 5
+        Aantal dozen: 3
+        Reservetegels: 3
+        Totale prijs: 36.0 euro
