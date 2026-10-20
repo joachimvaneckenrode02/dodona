@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340" font-family="Helvetica, Arial, sans-serif" font-size="15">
+<rect width="100%" height="100%" rx="10" fill="#fbf7f2"/>
+<defs><marker id="p" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c8643b"/></marker><marker id="g" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#b9aca0"/></marker><linearGradient id="dag" x1="0" x2="1"><stop offset="0" stop-color="#24364a"/><stop offset="0.25" stop-color="#e9dccd"/><stop offset="0.75" stop-color="#e9dccd"/><stop offset="1" stop-color="#24364a"/></linearGradient></defs>
+<rect x="40" y="150" width="116" height="70" rx="8" fill="url(#dag)"/>
+<text x="98.0" y="244" text-anchor="middle" fill="#3b2a20" font-weight="bold">1 = ma</text>
+<rect x="162" y="150" width="116" height="70" rx="8" fill="url(#dag)"/>
+<text x="220.0" y="244" text-anchor="middle" fill="#3b2a20" font-weight="bold">2 = di</text>
+<line x1="159" y1="142" x2="159" y2="226" stroke="#b9aca0" stroke-dasharray="3 3"/>
+<rect x="284" y="150" width="116" height="70" rx="8" fill="url(#dag)"/>
+<text x="342.0" y="244" text-anchor="middle" fill="#3b2a20" font-weight="bold">3 = wo</text>
+<line x1="281" y1="142" x2="281" y2="226" stroke="#b9aca0" stroke-dasharray="3 3"/>
+<rect x="406" y="150" width="116" height="70" rx="8" fill="url(#dag)"/>
+<text x="464.0" y="244" text-anchor="middle" fill="#3b2a20" font-weight="bold">4 = do</text>
+<line x1="403" y1="142" x2="403" y2="226" stroke="#b9aca0" stroke-dasharray="3 3"/>
+<rect x="528" y="150" width="116" height="70" rx="8" fill="url(#dag)"/>
+<text x="586.0" y="244" text-anchor="middle" fill="#3b2a20" font-weight="bold">5 = vr</text>
+<line x1="525" y1="142" x2="525" y2="226" stroke="#b9aca0" stroke-dasharray="3 3"/>
+<rect x="650" y="150" width="116" height="70" rx="8" fill="url(#dag)"/>
+<text x="708.0" y="244" text-anchor="middle" fill="#3b2a20" font-weight="bold">6 = za</text>
+<line x1="647" y1="142" x2="647" y2="226" stroke="#b9aca0" stroke-dasharray="3 3"/>
+<rect x="772" y="150" width="116" height="70" rx="8" fill="url(#dag)"/>
+<text x="830.0" y="244" text-anchor="middle" fill="#3b2a20" font-weight="bold">7 = zo</text>
+<line x1="769" y1="142" x2="769" y2="226" stroke="#b9aca0" stroke-dasharray="3 3"/>
+<line x1="40" y1="30" x2="40" y2="50" stroke="#b9aca0" stroke-dasharray="3 3"/><text x="50" y="45" fill="#b9aca0" font-size="13">middernacht</text>
+<path d="M 393.55555555555554 170 C 363.55555555555554 55, 470.2361111111111 55, 440.2361111111111 166" fill="none" stroke="#c8643b" stroke-width="3" marker-end="url(#p)"/>
+<circle cx="393.55555555555554" cy="185" r="7" fill="#c8643b"/><circle cx="440.2361111111111" cy="185" r="7" fill="#2f6f8f"/>
+<text x="383.55555555555554" y="210" text-anchor="end" fill="#fff" font-size="13" font-weight="bold">22:40</text>
+<text x="450.2361111111111" y="210" fill="#3b2a20" font-size="13" font-weight="bold">07:05</text>
+<path d="M 376.8958333333333 25 H 438.8958333333333 Q 458.8958333333333 25 458.8958333333333 47 V 55 H 376.8958333333333 Z" fill="#2f6f8f"/>
+<rect x="382.8958333333333" y="31" width="12" height="11" rx="2" fill="#dfeef5"/>
+<rect x="400.8958333333333" y="31" width="12" height="11" rx="2" fill="#dfeef5"/>
+<rect x="418.8958333333333" y="31" width="12" height="11" rx="2" fill="#dfeef5"/>
+<rect x="372.8958333333333" y="59" width="94" height="3" fill="#3b2a20"/>
+<circle cx="388.8958333333333" cy="57" r="5" fill="#3b2a20"/>
+<circle cx="408.8958333333333" cy="57" r="5" fill="#3b2a20"/>
+<circle cx="428.8958333333333" cy="57" r="5" fill="#3b2a20"/>
+<circle cx="446.8958333333333" cy="57" r="5" fill="#3b2a20"/>
+<text x="476.8958333333333" y="47" fill="#3b2a20" font-weight="bold">505 min</text>
+<path d="M 868 260 C 768 295, 160 295, 60 260" fill="none" stroke="#b9aca0" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#g)"/>
+<text x="450.0" y="302" text-anchor="middle" fill="#b9aca0" font-size="13">na zondag komt opnieuw maandag</text>
+</svg>

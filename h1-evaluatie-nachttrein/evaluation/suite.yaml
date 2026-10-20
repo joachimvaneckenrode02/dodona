@@ -1,0 +1,62 @@
+- tab: Basis
+  contexts:
+  - testcases:
+    - stdin: |
+        3
+        22
+        40
+        505
+      stdout: |
+        Aankomst: dag 4 om 07:05
+        Middernacht overschreden: 1 keer
+        Prijs: 33.4 euro
+  - testcases:
+    - stdin: |
+        7
+        23
+        50
+        15
+      stdout: |
+        Aankomst: dag 1 om 00:05
+        Middernacht overschreden: 1 keer
+        Prijs: 5.35 euro
+  - testcases:
+    - stdin: |
+        1
+        8
+        0
+        60
+      stdout: |
+        Aankomst: dag 1 om 09:00
+        Middernacht overschreden: 0 keer
+        Prijs: 7.9 euro
+  - testcases:
+    - stdin: |
+        5
+        18
+        5
+        3000
+      stdout: |
+        Aankomst: dag 7 om 20:05
+        Middernacht overschreden: 2 keer
+        Prijs: 174.5 euro
+  - testcases:
+    - stdin: |
+        6
+        0
+        0
+        1440
+      stdout: |
+        Aankomst: dag 7 om 00:00
+        Middernacht overschreden: 1 keer
+        Prijs: 86.1 euro
+  - testcases:
+    - stdin: |
+        7
+        12
+        30
+        10087
+      stdout: |
+        Aankomst: dag 7 om 12:37
+        Middernacht overschreden: 7 keer
+        Prijs: 576.55 euro
