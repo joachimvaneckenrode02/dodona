@@ -1,0 +1,47 @@
+- tab: Basis
+  contexts:
+  - testcases:
+    - stdin: |
+        144
+        100
+      stdout: |
+        Omtrek: 48.0 m
+        Aantal rollen: 2
+        Kostprijs: 79.98 euro
+        Je budget volstaat. Je houdt 20.02 euro over.
+  - testcases:
+    - stdin: |
+        400
+        150
+      stdout: |
+        Omtrek: 80.0 m
+        Aantal rollen: 4
+        Kostprijs: 159.96 euro
+        Je budget is te klein. Je komt 9.96 euro tekort.
+  - testcases:
+    - stdin: |
+        156.25
+        79.98
+      stdout: |
+        Omtrek: 50.0 m
+        Aantal rollen: 2
+        Kostprijs: 79.98 euro
+        Je budget volstaat. Je houdt 0.0 euro over.
+  - testcases:
+    - stdin: |
+        30
+        25
+      stdout: |
+        Omtrek: 21.9 m
+        Aantal rollen: 1
+        Kostprijs: 39.99 euro
+        Je budget is te klein. Je komt 14.99 euro tekort.
+  - testcases:
+    - stdin: |
+        1000
+        200
+      stdout: |
+        Omtrek: 126.5 m
+        Aantal rollen: 6
+        Kostprijs: 239.94 euro
+        Je budget is te klein. Je komt 39.94 euro tekort.

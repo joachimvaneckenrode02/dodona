@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 295" font-family="Helvetica, Arial, sans-serif" font-size="15">
+<rect width="100%" height="100%" rx="10" fill="#fbf7f2"/>
+<circle cx="150" cy="130" r="95" fill="#e9b872" stroke="#c48a3f" stroke-width="5"/>
+<circle cx="150" cy="130" r="86" fill="#d9603b"/>
+<circle cx="173.8" cy="140.0" r="9.5" fill="#f6e7c8"/>
+<circle cx="162.8" cy="175.5" r="9.5" fill="#f6e7c8"/>
+<circle cx="134.9" cy="150.9" r="9.5" fill="#f6e7c8"/>
+<circle cx="102.8" cy="132.3" r="9.5" fill="#f6e7c8"/>
+<circle cx="132.9" cy="110.6" r="9.5" fill="#f6e7c8"/>
+<circle cx="158.3" cy="83.4" r="9.5" fill="#f6e7c8"/>
+<circle cx="172.7" cy="117.7" r="9.5" fill="#f6e7c8"/>
+<text x="150" y="255" text-anchor="middle" fill="#3b2a20" font-weight="bold">1 grote pizza</text>
+<text x="150" y="276" text-anchor="middle" fill="#b9aca0" font-size="13">Ø 38 cm · 14.5 euro</text>
+<text x="315" y="140" text-anchor="middle" fill="#3b2a20" font-size="30" font-weight="bold">of</text>
+<circle cx="440" cy="130" r="70" fill="#e9b872" stroke="#c48a3f" stroke-width="5"/>
+<circle cx="440" cy="130" r="61" fill="#d9603b"/>
+<circle cx="456.9" cy="137.1" r="7.0" fill="#f6e7c8"/>
+<circle cx="449.1" cy="162.3" r="7.0" fill="#f6e7c8"/>
+<circle cx="429.3" cy="144.8" r="7.0" fill="#f6e7c8"/>
+<circle cx="406.5" cy="131.6" r="7.0" fill="#f6e7c8"/>
+<circle cx="427.9" cy="116.3" r="7.0" fill="#f6e7c8"/>
+<circle cx="445.9" cy="97.0" r="7.0" fill="#f6e7c8"/>
+<circle cx="456.1" cy="121.3" r="7.0" fill="#f6e7c8"/>
+<circle cx="600" cy="130" r="70" fill="#e9b872" stroke="#c48a3f" stroke-width="5"/>
+<circle cx="600" cy="130" r="61" fill="#d9603b"/>
+<circle cx="616.9" cy="137.1" r="7.0" fill="#f6e7c8"/>
+<circle cx="609.1" cy="162.3" r="7.0" fill="#f6e7c8"/>
+<circle cx="589.3" cy="144.8" r="7.0" fill="#f6e7c8"/>
+<circle cx="566.5" cy="131.6" r="7.0" fill="#f6e7c8"/>
+<circle cx="587.9" cy="116.3" r="7.0" fill="#f6e7c8"/>
+<circle cx="605.9" cy="97.0" r="7.0" fill="#f6e7c8"/>
+<circle cx="616.1" cy="121.3" r="7.0" fill="#f6e7c8"/>
+<text x="520" y="255" text-anchor="middle" fill="#3b2a20" font-weight="bold">actie: 2 medium pizza's</text>
+<text x="520" y="276" text-anchor="middle" fill="#b9aca0" font-size="13">Ø 28 cm per pizza · samen 16.0 euro</text>
+</svg>

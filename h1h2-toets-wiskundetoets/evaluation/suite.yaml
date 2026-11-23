@@ -1,0 +1,44 @@
+- tab: Basis
+  contexts:
+  - testcases:
+    - stdin: |
+        13
+        20
+      stdout: |
+        Percentage: 65.0 %
+        Geslaagd!
+  - testcases:
+    - stdin: |
+        8.5
+        20
+      stdout: |
+        Percentage: 42.5 %
+        Niet geslaagd. Je had nog 1.5 punten nodig.
+  - testcases:
+    - stdin: |
+        30
+        60
+      stdout: |
+        Percentage: 50.0 %
+        Geslaagd!
+  - testcases:
+    - stdin: |
+        7
+        15
+      stdout: |
+        Percentage: 46.7 %
+        Niet geslaagd. Je had nog 0.5 punten nodig.
+  - testcases:
+    - stdin: |
+        0
+        10
+      stdout: |
+        Percentage: 0.0 %
+        Niet geslaagd. Je had nog 5.0 punten nodig.
+  - testcases:
+    - stdin: |
+        49.5
+        100
+      stdout: |
+        Percentage: 49.5 %
+        Niet geslaagd. Je had nog 0.5 punten nodig.

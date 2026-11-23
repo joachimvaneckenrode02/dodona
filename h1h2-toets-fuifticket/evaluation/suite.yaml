@@ -1,0 +1,34 @@
+- tab: Basis
+  contexts:
+  - testcases:
+    - stdin: |
+        3
+      stdout: |
+        Prijs per ticket: 12 euro
+        Totaal te betalen: 36 euro
+  - testcases:
+    - stdin: |
+        9
+      stdout: |
+        Prijs per ticket: 12 euro
+        Totaal te betalen: 108 euro
+  - testcases:
+    - stdin: |
+        10
+      stdout: |
+        Prijs per ticket: 10 euro
+        Totaal te betalen: 100 euro
+        Je bespaart 20 euro dankzij de groepsprijs.
+  - testcases:
+    - stdin: |
+        25
+      stdout: |
+        Prijs per ticket: 10 euro
+        Totaal te betalen: 250 euro
+        Je bespaart 50 euro dankzij de groepsprijs.
+  - testcases:
+    - stdin: |
+        1
+      stdout: |
+        Prijs per ticket: 12 euro
+        Totaal te betalen: 12 euro

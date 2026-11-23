@@ -1,0 +1,65 @@
+- tab: Basis
+  contexts:
+  - testcases:
+    - stdin: |
+        8
+        50
+        10
+        55
+      stdout: |
+        Parkeerduur: 2 u 5 min
+        Te betalen: 7.2 euro
+  - testcases:
+    - stdin: |
+        9
+        15
+        9
+        45
+      stdout: |
+        Parkeerduur: 0 u 30 min
+        Gratis parkeren!
+  - testcases:
+    - stdin: |
+        9
+        15
+        9
+        46
+      stdout: |
+        Parkeerduur: 0 u 31 min
+        Te betalen: 2.4 euro
+  - testcases:
+    - stdin: |
+        7
+        30
+        13
+        30
+      stdout: |
+        Parkeerduur: 6 u 0 min
+        Te betalen: 14.4 euro
+  - testcases:
+    - stdin: |
+        7
+        30
+        13
+        31
+      stdout: |
+        Parkeerduur: 6 u 1 min
+        Te betalen: 15.0 euro (dagtarief)
+  - testcases:
+    - stdin: |
+        11
+        59
+        12
+        1
+      stdout: |
+        Parkeerduur: 0 u 2 min
+        Gratis parkeren!
+  - testcases:
+    - stdin: |
+        6
+        0
+        22
+        45
+      stdout: |
+        Parkeerduur: 16 u 45 min
+        Te betalen: 15.0 euro (dagtarief)

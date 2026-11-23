@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 260" font-family="Helvetica, Arial, sans-serif" font-size="15">
+<rect width="100%" height="100%" rx="10" fill="#fbf7f2"/>
+<rect x="60" y="40" width="170" height="170" fill="#d7e6cf"/>
+<path d="M 75 63 l 3 -8 l 3 8" fill="none" stroke="#6b9a5b" stroke-width="1.5"/>
+<path d="M 149 169 l 3 -8 l 3 8" fill="none" stroke="#6b9a5b" stroke-width="1.5"/>
+<path d="M 186 77 l 3 -8 l 3 8" fill="none" stroke="#6b9a5b" stroke-width="1.5"/>
+<path d="M 78 130 l 3 -8 l 3 8" fill="none" stroke="#6b9a5b" stroke-width="1.5"/>
+<path d="M 115 183 l 3 -8 l 3 8" fill="none" stroke="#6b9a5b" stroke-width="1.5"/>
+<path d="M 152 91 l 3 -8 l 3 8" fill="none" stroke="#6b9a5b" stroke-width="1.5"/>
+<path d="M 81 197 l 3 -8 l 3 8" fill="none" stroke="#6b9a5b" stroke-width="1.5"/>
+<path d="M 155 158 l 3 -8 l 3 8" fill="none" stroke="#6b9a5b" stroke-width="1.5"/>
+<path d="M 192 66 l 3 -8 l 3 8" fill="none" stroke="#6b9a5b" stroke-width="1.5"/>
+<path d="M 84 119 l 3 -8 l 3 8" fill="none" stroke="#6b9a5b" stroke-width="1.5"/>
+<path d="M 121 172 l 3 -8 l 3 8" fill="none" stroke="#6b9a5b" stroke-width="1.5"/>
+<path d="M 158 80 l 3 -8 l 3 8" fill="none" stroke="#6b9a5b" stroke-width="1.5"/>
+<path d="M 87 186 l 3 -8 l 3 8" fill="none" stroke="#6b9a5b" stroke-width="1.5"/>
+<path d="M 124 94 l 3 -8 l 3 8" fill="none" stroke="#6b9a5b" stroke-width="1.5"/>
+<rect x="60" y="40" width="170" height="170" fill="none" stroke="#3b2a20" stroke-width="3"/>
+<circle cx="60" cy="40" r="3.5" fill="#3b2a20"/>
+<circle cx="60" cy="210" r="3.5" fill="#3b2a20"/>
+<circle cx="60" cy="40" r="3.5" fill="#3b2a20"/>
+<circle cx="230" cy="40" r="3.5" fill="#3b2a20"/>
+<circle cx="77" cy="40" r="3.5" fill="#3b2a20"/>
+<circle cx="77" cy="210" r="3.5" fill="#3b2a20"/>
+<circle cx="60" cy="57" r="3.5" fill="#3b2a20"/>
+<circle cx="230" cy="57" r="3.5" fill="#3b2a20"/>
+<circle cx="94" cy="40" r="3.5" fill="#3b2a20"/>
+<circle cx="94" cy="210" r="3.5" fill="#3b2a20"/>
+<circle cx="60" cy="74" r="3.5" fill="#3b2a20"/>
+<circle cx="230" cy="74" r="3.5" fill="#3b2a20"/>
+<circle cx="111" cy="40" r="3.5" fill="#3b2a20"/>
+<circle cx="111" cy="210" r="3.5" fill="#3b2a20"/>
+<circle cx="60" cy="91" r="3.5" fill="#3b2a20"/>
+<circle cx="230" cy="91" r="3.5" fill="#3b2a20"/>
+<circle cx="128" cy="40" r="3.5" fill="#3b2a20"/>
+<circle cx="128" cy="210" r="3.5" fill="#3b2a20"/>
+<circle cx="60" cy="108" r="3.5" fill="#3b2a20"/>
+<circle cx="230" cy="108" r="3.5" fill="#3b2a20"/>
+<circle cx="145" cy="40" r="3.5" fill="#3b2a20"/>
+<circle cx="145" cy="210" r="3.5" fill="#3b2a20"/>
+<circle cx="60" cy="125" r="3.5" fill="#3b2a20"/>
+<circle cx="230" cy="125" r="3.5" fill="#3b2a20"/>
+<circle cx="162" cy="40" r="3.5" fill="#3b2a20"/>
+<circle cx="162" cy="210" r="3.5" fill="#3b2a20"/>
+<circle cx="60" cy="142" r="3.5" fill="#3b2a20"/>
+<circle cx="230" cy="142" r="3.5" fill="#3b2a20"/>
+<circle cx="179" cy="40" r="3.5" fill="#3b2a20"/>
+<circle cx="179" cy="210" r="3.5" fill="#3b2a20"/>
+<circle cx="60" cy="159" r="3.5" fill="#3b2a20"/>
+<circle cx="230" cy="159" r="3.5" fill="#3b2a20"/>
+<circle cx="196" cy="40" r="3.5" fill="#3b2a20"/>
+<circle cx="196" cy="210" r="3.5" fill="#3b2a20"/>
+<circle cx="60" cy="176" r="3.5" fill="#3b2a20"/>
+<circle cx="230" cy="176" r="3.5" fill="#3b2a20"/>
+<circle cx="213" cy="40" r="3.5" fill="#3b2a20"/>
+<circle cx="213" cy="210" r="3.5" fill="#3b2a20"/>
+<circle cx="60" cy="193" r="3.5" fill="#3b2a20"/>
+<circle cx="230" cy="193" r="3.5" fill="#3b2a20"/>
+<circle cx="230" cy="40" r="3.5" fill="#3b2a20"/>
+<circle cx="230" cy="210" r="3.5" fill="#3b2a20"/>
+<circle cx="60" cy="210" r="3.5" fill="#3b2a20"/>
+<circle cx="230" cy="210" r="3.5" fill="#3b2a20"/>
+<text x="145.0" y="133.0" text-anchor="middle" fill="#3b2a20" font-size="24" font-weight="bold">144 m²</text>
+<text x="145.0" y="240" text-anchor="middle" fill="#b9aca0" font-size="13">vierkante tuin</text>
+<ellipse cx="490" cy="125" rx="22" ry="48" fill="#f3c9a8" stroke="#c8643b" stroke-width="2"/>
+<rect x="380" y="77" width="110" height="96" fill="#f3c9a8"/>
+<line x1="386" y1="77" x2="386" y2="173" stroke="#c8643b" stroke-width="1.2"/>
+<line x1="399" y1="77" x2="399" y2="173" stroke="#c8643b" stroke-width="1.2"/>
+<line x1="412" y1="77" x2="412" y2="173" stroke="#c8643b" stroke-width="1.2"/>
+<line x1="425" y1="77" x2="425" y2="173" stroke="#c8643b" stroke-width="1.2"/>
+<line x1="438" y1="77" x2="438" y2="173" stroke="#c8643b" stroke-width="1.2"/>
+<line x1="451" y1="77" x2="451" y2="173" stroke="#c8643b" stroke-width="1.2"/>
+<line x1="464" y1="77" x2="464" y2="173" stroke="#c8643b" stroke-width="1.2"/>
+<line x1="477" y1="77" x2="477" y2="173" stroke="#c8643b" stroke-width="1.2"/>
+<line x1="380" y1="77" x2="490" y2="77" stroke="#c8643b" stroke-width="2"/><line x1="380" y1="173" x2="490" y2="173" stroke="#c8643b" stroke-width="2"/>
+<ellipse cx="380" cy="125" rx="22" ry="48" fill="#f3c9a8" stroke="#c8643b" stroke-width="2"/><ellipse cx="380" cy="125" rx="7" ry="15" fill="#fbf7f2" stroke="#c8643b"/>
+<text x="435" y="210" text-anchor="middle" fill="#3b2a20" font-weight="bold">1 rol = 25 m draad</text>
+<text x="435" y="231" text-anchor="middle" fill="#c8643b" font-weight="bold">39.99 euro</text>
+</svg>

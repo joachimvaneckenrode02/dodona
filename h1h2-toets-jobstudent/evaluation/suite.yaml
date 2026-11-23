@@ -1,0 +1,42 @@
+- tab: Basis
+  contexts:
+  - testcases:
+    - stdin: |
+        2490
+        14.0
+      stdout: |
+        Gewerkt: 41 u 30 min
+        Overuren: 3 u 30 min
+        Loon: 605.5 euro
+  - testcases:
+    - stdin: |
+        2280
+        14.0
+      stdout: |
+        Gewerkt: 38 u 0 min
+        Geen overuren.
+        Loon: 532.0 euro
+  - testcases:
+    - stdin: |
+        1500
+        13.5
+      stdout: |
+        Gewerkt: 25 u 0 min
+        Geen overuren.
+        Loon: 337.5 euro
+  - testcases:
+    - stdin: |
+        2290
+        15.0
+      stdout: |
+        Gewerkt: 38 u 10 min
+        Overuren: 0 u 10 min
+        Loon: 573.75 euro
+  - testcases:
+    - stdin: |
+        3000
+        12.8
+      stdout: |
+        Gewerkt: 50 u 0 min
+        Overuren: 12 u 0 min
+        Loon: 716.8 euro

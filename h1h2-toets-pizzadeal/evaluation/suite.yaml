@@ -1,0 +1,74 @@
+- tab: Basis
+  contexts:
+  - testcases:
+    - stdin: |
+        38
+        14.5
+        28
+        16.0
+      stdout: |
+        Oppervlakte grote pizza: 1134.1 cm2
+        Oppervlakte 2 medium pizza's: 1231.5 cm2
+        Grote pizza: 1.28 euro per 100 cm2
+        2 medium pizza's: 1.3 euro per 100 cm2
+        Beste keuze: de grote pizza
+  - testcases:
+    - stdin: |
+        33
+        12.0
+        25
+        13.5
+      stdout: |
+        Oppervlakte grote pizza: 855.3 cm2
+        Oppervlakte 2 medium pizza's: 981.7 cm2
+        Grote pizza: 1.4 euro per 100 cm2
+        2 medium pizza's: 1.38 euro per 100 cm2
+        Beste keuze: 2 medium pizza's
+  - testcases:
+    - stdin: |
+        40
+        15.0
+        28
+        16.0
+      stdout: |
+        Oppervlakte grote pizza: 1256.6 cm2
+        Oppervlakte 2 medium pizza's: 1231.5 cm2
+        Grote pizza: 1.19 euro per 100 cm2
+        2 medium pizza's: 1.3 euro per 100 cm2
+        Beste keuze: de grote pizza
+  - testcases:
+    - stdin: |
+        30
+        10.0
+        20
+        7.5
+      stdout: |
+        Oppervlakte grote pizza: 706.9 cm2
+        Oppervlakte 2 medium pizza's: 628.3 cm2
+        Grote pizza: 1.41 euro per 100 cm2
+        2 medium pizza's: 1.19 euro per 100 cm2
+        Beste keuze: 2 medium pizza's
+  - testcases:
+    - stdin: |
+        32
+        11.0
+        24
+        13.0
+      stdout: |
+        Oppervlakte grote pizza: 804.2 cm2
+        Oppervlakte 2 medium pizza's: 904.8 cm2
+        Grote pizza: 1.37 euro per 100 cm2
+        2 medium pizza's: 1.44 euro per 100 cm2
+        Beste keuze: de grote pizza
+  - testcases:
+    - stdin: |
+        40
+        18.0
+        30
+        19.0
+      stdout: |
+        Oppervlakte grote pizza: 1256.6 cm2
+        Oppervlakte 2 medium pizza's: 1413.7 cm2
+        Grote pizza: 1.43 euro per 100 cm2
+        2 medium pizza's: 1.34 euro per 100 cm2
+        Beste keuze: 2 medium pizza's

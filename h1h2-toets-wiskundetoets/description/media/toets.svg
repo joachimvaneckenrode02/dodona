@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650 240" font-family="Helvetica, Arial, sans-serif" font-size="15">
+<rect width="100%" height="100%" rx="10" fill="#fbf7f2"/>
+<rect x="40" y="25" width="150" height="190" rx="6" fill="#fff" stroke="#3b2a20" stroke-width="1.5"/>
+<text x="58" y="55" fill="#3b2a20" font-weight="bold">Toets wiskunde</text>
+<line x1="58" y1="78" x2="170" y2="78" stroke="#b9aca0" stroke-width="2"/>
+<line x1="58" y1="96" x2="152" y2="96" stroke="#b9aca0" stroke-width="2"/>
+<line x1="58" y1="114" x2="134" y2="114" stroke="#b9aca0" stroke-width="2"/>
+<line x1="58" y1="132" x2="170" y2="132" stroke="#b9aca0" stroke-width="2"/>
+<line x1="58" y1="150" x2="152" y2="150" stroke="#b9aca0" stroke-width="2"/>
+<line x1="58" y1="168" x2="134" y2="168" stroke="#b9aca0" stroke-width="2"/>
+<circle cx="150" cy="180" r="27" fill="none" stroke="#c8643b" stroke-width="3"/>
+<text x="150" y="187" text-anchor="middle" fill="#c8643b" font-size="18" font-weight="bold">13/20</text>
+<rect x="250" y="111" width="180.0" height="28" rx="6" fill="#f3c9a8"/>
+<rect x="430.0" y="111" width="180.0" height="28" rx="6" fill="#d7e6cf"/>
+<line x1="430.0" y1="93" x2="430.0" y2="157" stroke="#3b2a20" stroke-width="2.5"/>
+<text x="430.0" y="85" text-anchor="middle" fill="#3b2a20" font-weight="bold">50 %</text>
+<text x="340" y="130" text-anchor="middle" fill="#c8643b" font-weight="bold">niet geslaagd</text>
+<text x="520" y="130" text-anchor="middle" fill="#6b9a5b" font-weight="bold">geslaagd</text>
+<text x="250" y="175" fill="#b9aca0" font-size="13">0 %</text><text x="610" y="175" text-anchor="end" fill="#b9aca0" font-size="13">100 %</text>
+<path d="M 484.0 143 l -8 14 h 16 z" fill="#3b2a20"/><text x="484.0" y="175" text-anchor="middle" fill="#3b2a20" font-size="13">65 %</text>
+</svg>
